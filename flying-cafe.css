@@ -1,0 +1,288 @@
+
+.col-md-2{
+    width: 100%;
+    
+}
+
+.col-md-2 img{
+    width: 40%;
+}
+
+.col-md-10{
+    color: black;
+    padding-left: 200px !important;
+    font-size: 20px;
+    
+}
+
+.nav-item a{
+    padding-left: 110px;
+}
+
+
+
+
+.col-md-10 a{
+    color: brown;
+    font-weight: 600;
+    
+}
+
+.slide img{
+    height: 400px;
+    width: 600px;
+}
+
+.logo{
+     width: 100%;
+    padding-top: 20px;
+}
+
+.logo img{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.inside{
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: blanchedalmond;
+}
+
+.inside img{
+    width: 50%;
+}
+
+.welcome h1{
+    padding-left: 10px;
+}
+
+
+
+.special h2{
+    padding-top: 30px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 50px;
+  padding-bottom: 10px;
+}
+
+
+.dish {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+.dish .car{
+    padding-left: 20px;
+}
+
+
+
+
+.dish .cad{
+    padding-left: 20px;
+}
+
+.dish .ard{
+    padding-left: 20px;
+}
+
+
+.dishe {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.dishe .car{
+    padding-left: 20px;
+}
+
+
+
+
+.dishe .cad{
+    padding-left: 20px;
+}
+
+.dishe .ard{
+    padding-left: 20px;
+}
+
+
+.footer{
+    margin-top: 50px;
+    width: 100%;
+    background-color: rgb(10, 10, 10);
+    display: flex;
+}
+
+.a h1{
+    font-size: 30px;
+    color: rgb(8, 231, 45);
+}
+.a{
+    padding-left: 50px;
+  width: 33%;
+}
+
+.a ul{
+    color: aliceblue;
+}
+
+.B h2{
+    font-size: 30px;
+    color: rgb(8, 231, 45);
+}
+
+.B{
+    width: 33%;
+}
+
+.B ul{
+    color: aliceblue;
+}
+
+
+.c h3{
+   font-size: 30px; 
+   color: rgb(8, 231, 45);
+}
+.c{
+   width: 34%;
+}
+
+.c ul{
+    color: aliceblue;
+}
+
+
+.c i{
+    font-size: 20px;
+    padding: 15px;
+    color: aliceblue;
+}
+
+
+.about-fly h1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    color: rgb(85, 27, 27);
+}
+
+
+.insid{
+     margin-top: 10px;
+    display: flex;
+    width: 100%;
+    height: 400px;
+}
+
+.insid p{
+    padding-left: 100px;
+    width: 50%;
+    font-size: 25px;
+}
+
+.Quality h1{
+    padding-top: 30px;
+    padding-left: 100px;
+    
+}
+
+.insid img{
+    padding-left: 50px;
+    height: 350px;
+}
+
+
+.columns{
+background-image: url(img/food\ background.png);
+color: aliceblue;
+width: 100%;
+
+}
+
+
+.columns h3{
+    padding-top: 130px;
+}
+
+.Qualit{
+    width: 100%;
+    padding-bottom: 150px;
+}
+
+
+.Qualit h1{
+    padding-left: 100px;
+
+}
+
+.Qualit img{
+ height: 500px;
+ width: 600px;
+}
+
+.Qualit h6{
+    padding-left: 80px;
+    padding-top: 50px;
+    text-decoration: underline;
+    font-size: 25px;
+    color: gold;
+}
+
+.menu img{
+   width: 200px;
+   padding-left: 20px
+}
+
+
+
+
+.menu{
+    display: flex;
+}
+
+
+.book{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.from-check{
+    padding-left: 50px !important;
+}
+
+
+.momo{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    color: rgb(13, 13, 14);
+    font-size: 50px;
+   text-decoration: solid;
+    width: 380px;
+    height: 253px;
+    opacity: 0.5;
+}
+
+.momo:hover{
+    display: none;
+}
